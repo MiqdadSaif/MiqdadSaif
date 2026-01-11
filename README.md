@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miqdadsaif" alt="miqdadsaif" /></a> </p>
 
-- 🔭 I’m currently working on **Agri Application**
+- 🔭 I’m currently working on **neral Network Application**
 
 - 🌱 I’m currently learning **Firebase and Flutter flavours**
 
